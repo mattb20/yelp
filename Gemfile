@@ -64,6 +64,7 @@ group :test do
   gem 'rubocop'
   gem 'rubycritic', '~> 3.4'
   gem 'rspec'
+  gem 'database_cleaner'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
