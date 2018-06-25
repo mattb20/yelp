@@ -88,6 +88,9 @@ Rails.application.configure do
     logger.formatter = config.log_formatter
     config.logger    = ActiveSupport::TaggedLogging.new(logger)
   end
+  config.load_defaults 5.2
+  config.time_zone = 'London'
+  config.active_record.migration_error = :page_load
 
   # Do not dump schema after migrations.
   config.active_record.dump_schema_after_migration = false
