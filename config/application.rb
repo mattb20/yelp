@@ -14,6 +14,7 @@ module Yelp
     if  RAILS_ENV == 'production'
       config.eager_load = true
     end
+    config.active_record.migration_error = :page_load
 
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration can go into files in config/initializers
