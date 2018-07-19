@@ -3,10 +3,10 @@
     "coverage": {
       "/Users/user/Desktop/Projects/yelp/spec/features/user_can_see_restaurants_spec.rb": [
         1,
-        0,
-        0,
-        0,
-        0,
+        1,
+        1,
+        1,
+        1,
         null,
         null
       ],
@@ -39,16 +39,14 @@
         null,
         1,
         null,
-        0,
+        1,
         null,
-        0,
-        null,
-        null,
+        1,
         null,
         null,
-        0,
         null,
         null,
+        1,
         null,
         null,
         null,
@@ -61,10 +59,12 @@
         null,
         null,
         null,
-        0,
         null,
         null,
-        0,
+        1,
+        null,
+        null,
+        1,
         null,
         null,
         null
@@ -87,9 +87,6 @@
         null,
         1,
         1,
-        null,
-        null,
-        null,
         null,
         null,
         null,
@@ -246,7 +243,6 @@
         1,
         null,
         1,
-        null,
         null,
         null,
         null,
@@ -582,10 +578,15 @@
       "/Users/user/Desktop/Projects/yelp/spec/models/user_spec.rb": [
         1,
         null,
-        0,
+        1,
+        null
+      ],
+      "/Users/user/Desktop/Projects/yelp/app/controllers/application_controller.rb": [
+        1,
+        null,
         null
       ]
     },
-    "timestamp": 1529937006
+    "timestamp": 1530115676
   }
 }
