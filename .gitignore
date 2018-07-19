@@ -21,6 +21,9 @@
 # Ignore local_env
 config/local_env.yml
 
+# Ignore coverage
+coverage/
+
 
 # Ignore uploaded files in development
 /storage/*
