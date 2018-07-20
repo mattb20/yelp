@@ -8,6 +8,10 @@
         1,
         1,
         null,
+        1,
+        1,
+        1,
+        null,
         null
       ],
       "/Users/user/Desktop/Projects/yelp/spec/rails_helper.rb": [
@@ -587,6 +591,6 @@
         null
       ]
     },
-    "timestamp": 1531984225
+    "timestamp": 1532107216
   }
 }
