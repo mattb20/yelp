@@ -8,12 +8,12 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
-  database: yelp_development
+  database: yelp_test
   pool: 5
 
 
 production:
   adapter: postgresql
   encoding: unicode
-  database: yelp_prod
+  database: yelp_production
   pool: 5
